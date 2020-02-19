@@ -1,0 +1,8 @@
+C:\Users\kirmm\source\repos\ClassPaymentGateway\bin\Release\ClassPaymentGateway.dll
+C:\Users\kirmm\source\repos\ClassPaymentGateway\bin\Release\ClassPaymentGateway.pdb
+C:\Users\kirmm\source\repos\ClassPaymentGateway\obj\Release\ClassPaymentGateway.dll
+C:\Users\kirmm\source\repos\ClassPaymentGateway\obj\Release\ClassPaymentGateway.pdb
+D:\NetPGWsource\source\repos\ClassPaymentGateway\bin\Release\ClassPaymentGateway.dll
+D:\NetPGWsource\source\repos\ClassPaymentGateway\bin\Release\ClassPaymentGateway.pdb
+D:\NetPGWsource\source\repos\ClassPaymentGateway\obj\Release\ClassPaymentGateway.dll
+D:\NetPGWsource\source\repos\ClassPaymentGateway\obj\Release\ClassPaymentGateway.pdb

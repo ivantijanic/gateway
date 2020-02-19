@@ -1,0 +1,5 @@
+C:\Users\kirmm\source\repos\ClassPaymentGateway\bin\Debug\ClassPaymentGateway.dll
+C:\Users\kirmm\source\repos\ClassPaymentGateway\bin\Debug\ClassPaymentGateway.pdb
+C:\Users\kirmm\source\repos\ClassPaymentGateway\obj\Debug\ClassPaymentGateway.csprojAssemblyReference.cache
+C:\Users\kirmm\source\repos\ClassPaymentGateway\obj\Debug\ClassPaymentGateway.dll
+C:\Users\kirmm\source\repos\ClassPaymentGateway\obj\Debug\ClassPaymentGateway.pdb
